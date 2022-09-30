@@ -1,0 +1,3 @@
+[submodule "lib/aquarius"]
+	path = lib/aquarius
+	url = git@flompy.zone:liz/Aquarius
